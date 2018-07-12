@@ -1,0 +1,19 @@
+
+Cristian Rusu,
+February, 2017
+
+--------------------------------
+
+This package contains proof-of-concept source code for the results presented in:
+C. Rusu, J. Thompson and N. M. Robertson, Sensor selection with time, energy and communication constraints, 2017.
+
+Tested on Matlab R2014a.
+For problems, bug reports, comments and other contact C. Rusu.
+Needs the CVX library:
+M. Grant and S. Boyd, CVX: Matlab software for disciplined convex programming, version 2.1," http://cvxr.com/cvx, 2014
+
+--------------------------------
+
+Starting points:
+
+test_sensor_selection.m - Tests the sensor selection algorithms.
